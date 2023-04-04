@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc 
   project: default 
   source: 
-    path: environment/dev
+    path: environments/dev
     repoURL: https://github.com/nandanj/vote-app-gitops
     targetRevision: develop
   syncPolicy: 
