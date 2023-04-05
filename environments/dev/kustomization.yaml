@@ -6,6 +6,6 @@ images:
 - digest: sha256:3e7c81860d339263b59569353916f790d8926f144db2281a84a393abf26b7c90
   name: quay.io/rhn_gps_njoshi/vote-api
   newName: quay.io/rhn_gps_njoshi/vote-api
-- digest: sha256:4d1b28131a0e5e389efdcd499667f15ba73bbed8a2474a68e7707eba62108577
+- digest: sha256:6569207213c55c201ba3b34d4fbec9440cf5e2f320bc8bc2537c82c0430f369b
   name: quay.io/rhn_gps_njoshi/vote-ui
   newName: quay.io/rhn_gps_njoshi/vote-ui
