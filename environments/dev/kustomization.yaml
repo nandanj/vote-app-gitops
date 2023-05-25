@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
 - ../../k8s/
 images:
-- digest: sha256:ab2905d2c17b2af6443699136712f08a5cb5bf6190141da3968656ac8c8506b1
+- digest: sha256:efbbdfbce42024af4f5714cb72c3fa0c79502e23737101e7eb02dd23e3e77d6e
   name: quay.io/rhn_gps_njoshi/vote-api
   newName: quay.io/rhn_gps_njoshi/vote-api
 - digest: sha256:d7a4057bcc0e71e911ad07bb10c775269e1b707cd158df649871b5925a6770c8
